@@ -1,4 +1,5 @@
 # Aliaksandr Okrul
+Middle FullStack Developer 
 
 ### Education
 Belarusian State University(2002-2007)
