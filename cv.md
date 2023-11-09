@@ -25,7 +25,6 @@ Software Engineer(1C)
 
 Highly motivated and fast-learning spetialist excited about web development.
 
-
 ### Languages
 
 English - A2
